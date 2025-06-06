@@ -1,0 +1,5 @@
+Order Receipt - Order ID: 1001
+Burger x 2 = ₹200
+Fries x 2 = ₹160
+Cold Drink x 3 = ₹150
+Total Bill: ₹510

@@ -1,0 +1,5 @@
+1,Burger,100
+2,Pizza,250
+3,Fries,80
+4,Cold Drink,50
+5,Pasta,200
